@@ -1,4 +1,4 @@
-# Notes on getting CUDA 8.0 / torch7 / LuaJIT to work on my Linux Mint desktop with GTX 760 GPU
+# CUDA 8.0 / torch7 / LuaJIT on mint (ubuntu 16.04 equivalent) with GTX 760 GPU
 
 Download the CUDA 8.0 and NVIDIA 375.20 driver run files
 ```bash
